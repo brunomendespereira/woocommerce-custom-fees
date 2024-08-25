@@ -18,6 +18,8 @@
 - Go to the product edit page and configure the additional fee in the product data section.
 - The fees will be automatically applied in the shopping cart based on the settings.
 
+![Product Page - English](screenshots/product-page-english.png)
+
 ### Contributions
 Contributions are welcome! Feel free to fork this repository and submit a pull request.
 
@@ -38,6 +40,8 @@ Contributions are welcome! Feel free to fork this repository and submit a pull r
 ### Uso
 - Acesse a página de edição do produto e configure a taxa adicional na seção de dados do produto.
 - As taxas serão aplicadas automaticamente no carrinho de compras conforme configurado.
+
+![Página do Produto - Português](screenshots/product-page-portuguese.png)
 
 ### Contribuições
 Contribuições são bem-vindas! Sinta-se à vontade para fazer um fork deste repositório e enviar um pull request.
